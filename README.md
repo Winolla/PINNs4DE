@@ -45,7 +45,7 @@ $$
 
 where the different terms enforce the governing differential equation, initial conditions, boundary conditions, and available observational data.
 
-This approach provides a framework for combining **machine learning with mathematical modeling and scientific knowledge**.
+This approach provides a framework for combining **machine learning with mathematical modelling and scientific knowledge**.
 
 ---
 
@@ -65,7 +65,7 @@ PINNs/
 └── README.md
 ```
 
-The repository is organized by scientific problem, with each directory containing the corresponding mathematical model, implementation, experiments, and results.
+The repository is organised by scientific problem, with each directory containing the corresponding mathematical model, implementation, experiments, and results.
 
 ---
 
