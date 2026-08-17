@@ -1,6 +1,6 @@
 # Physics-Informed Neural Networks for Scientific Problems
 
-This repository contains my ongoing work exploring **Physics-Informed Neural Networks (PINNs)** for solving and modeling scientific and mathematical problems governed by differential equations.
+This repository contains my ongoing work exploring **Physics-Informed Neural Networks (PINNs)** to solve and model scientific and mathematical problems governed by differential equations.
 
 The main goal of this project is to investigate how neural networks can incorporate **physical laws, mathematical models, and differential equations directly into the learning process**, providing an alternative to traditional numerical methods for scientific computing.
 
@@ -33,9 +33,8 @@ and incorporates the differential equation into the loss function.
 
 A typical PINN objective can be written as
 
-$$
-\mathcal{L} $$
-===========
+$$\mathcal{L} $$
+================
 $$
 \mathcal{L}*{\text{PDE}}
 +
