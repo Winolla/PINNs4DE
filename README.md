@@ -31,7 +31,7 @@ $$
 
 and incorporates the differential equation into the loss function.
 
-$$\mathcal{Loss Function} $$
+Loss Function
 ================
 $$
 \mathcal{L}*{\text{PDE}}
