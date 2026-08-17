@@ -244,7 +244,7 @@ The repository therefore serves both as a collection of implementations and as a
 
 **Winner Mawuanam Komla Adufutse**
 
-MSc Mathematical Sciences — AIMS Ghana\\
+MSc Mathematical Sciences — AIMS Ghana
 BSc Mathematics — Kwame Nkrumah University of Science and Technology (KNUST)
 
 Research interests include:
