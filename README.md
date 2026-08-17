@@ -20,7 +20,7 @@ Physics-Informed Neural Networks are neural networks trained not only to fit dat
 For a differential equation of the form
 
 $$
-\mathcal{N}[u](x,t) = 0,
+\mathcal{N}u(x,t) = 0,
 $$
 
 a PINN approximates the unknown solution using a neural network
