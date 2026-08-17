@@ -34,9 +34,9 @@ and incorporates the differential equation into the loss function.
 A typical PINN objective can be written as
 
 $$
-\mathcal{L}
+\mathcal{L} $$
 ===========
-
+$$
 \mathcal{L}*{\text{PDE}}
 +
 \mathcal{L}*{\text{IC}}
