@@ -19,21 +19,21 @@ Physics-Informed Neural Networks are neural networks trained not only to fit dat
 
 For a differential equation of the form
 
-[
+\[
 \mathcal{N}[u](x,t) = 0,
-]
+\]
 
 a PINN approximates the unknown solution using a neural network
 
-[
+\[
 u(x,t) \approx u_\theta(x,t),
-]
+\]
 
 and incorporates the differential equation into the loss function.
 
 A typical PINN objective can be written as
 
-[
+\[
 \mathcal{L}
 ===========
 
@@ -44,7 +44,7 @@ A typical PINN objective can be written as
 \mathcal{L}*{\text{BC}}
 +
 \mathcal{L}*{\text{data}},
-]
+\]
 
 where the different terms enforce the governing differential equation, initial conditions, boundary conditions, and available observational data.
 
@@ -78,9 +78,9 @@ The first project investigates the use of PINNs to solve a **SIRD epidemiologica
 
 The SIRD model divides a population into four compartments:
 
-[
+\[
 S(t), \quad I(t), \quad D(t), \quad R(t),
-]
+\]
 
 representing:
 
@@ -197,7 +197,7 @@ This allows the PINN approach to be evaluated not only as a machine-learning mod
 
 This repository is part of my broader exploration of **Scientific Machine Learning (SciML)** and the intersection of:
 
-[
+\[
 \boxed{
 \text{Mathematics}
 +
@@ -207,7 +207,7 @@ This repository is part of my broader exploration of **Scientific Machine Learni
 +
 \text{Scientific Modeling}
 }
-]
+\]
 
 Future work will explore the application of PINNs to additional problems involving:
 
